@@ -9,12 +9,14 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
-
+/node_modules/mdbreact/node_modules/@material-ui/core/CHANGELOG.md
 # Used by dotenv library to load environment variables.
 # .env
 
 # Ignore Byebug command history file.
 .byebug_history
+
+
 
 ## Specific to RubyMotion:
 .dat*
